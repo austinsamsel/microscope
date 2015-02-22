@@ -1,8 +1,4 @@
-left off at end of here: https://book.discovermeteor.com/chapter/creating-posts
-
-https://book.discovermeteor.com/chapter/editing-posts
-limiting edits
-
+left off at voting: https://book.discovermeteor.com/chapter/voting
 
 # Microscope
 
